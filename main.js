@@ -1,8 +1,4 @@
-// ratewort = underline
-// fehler = count
-// printRatewort = setUnderline
-// buchstabe = letters
-// 
+
 
 var f1teams = [
 ["F","E", "R", "R", "A", "R", "I"],
